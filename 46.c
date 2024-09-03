@@ -5,7 +5,7 @@
 
 //Nível 3: Algoritmos Avançados (31-50) 
 
-//Solucionador de Sudoku: Implemente um solucionador de Sudoku. 
+//Algoritmo de Dijkstra: Implemente o algoritmo de Dijkstra para encontrar o caminho mais curto em um grafo. 
 
 #define V 9 
 
